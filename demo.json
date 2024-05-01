@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "신짱구",
+      "home": "서울",
+      "phone_no": "010-1234-5678",
+      "email": "user1.test.com"
+    },
+    {
+      "id": 2,
+      "name": "김철수",
+      "home": "대전",
+      "phone_no": "010-8678-4321",
+      "email": "user2.test.com"
+    }
+  ]
+}
